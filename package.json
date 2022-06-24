@@ -1,5 +1,5 @@
 {
-  "name": "vue-template",
+  "name": "<%=projectname%>",
   "version": "0.0.1",
   "private": "<%=private%>",
   "scripts": {
